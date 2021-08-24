@@ -1,0 +1,30 @@
+## JS sintax
+
+### Fixed and variable values
+
+There are two types of values:
+
+- Fixed values (Are called literals): Number are written woth or without decimals and Strings are written within double or dingle quotes.
+- Variable values (Are called variables): Used to store data values. In JS the var, let, const keywords are used to declare variables and the equal sign is used to assign values to variables.
+
+### Operators
+
+- Arithmetic operatos: `+ - * /`
+- Assignment operator: `=`
+
+### Expressions
+
+Are a combination of values, variables and operators in order to compute a value.
+
+The values can be of various types such as numbers and strings.
+
+### Keywords
+
+Used to identify actions to be performed such as: `let` and `var`
+
+### Identifiers
+
+Used to name variables, keywords, functions, labels. Rules:
+
+- First character must be a letter, underscore or a dollar sign
+

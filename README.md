@@ -9,3 +9,5 @@ The main material sources will be:
 ## Repository index
 
 - [JS Output](https://github.com/osasanchezme/JS-study/blob/main/resources/JS_output.md)
+
+- [Questions & Answers](https://github.com/osasanchezme/JS-study/blob/main/questions.md)
